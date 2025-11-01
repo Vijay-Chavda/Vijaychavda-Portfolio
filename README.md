@@ -1,5 +1,4 @@
 # 💼 Automation Engineer Portfolio  RPA + Python + GenAI
-# 🤖 RPA + GenAI Projects by Vijay Chavda
 
 Welcome to my automation portfolio! I'm an **Intelligent Automation Engineer** with **3.9+ years** of experience in **RPA**, **Python**, and **GenAI**, focused on building scalable, AI-powered solutions that drive real business impact.
 
