@@ -31,7 +31,8 @@ Welcome to my automation portfolio! I'm an **Intelligent Automation Engineer** w
 ---
 
 ## 📄 Resume
-📥 [Download My Resume](https://github.com/your-username/your-repo-name/raw/main/VijayChavdaResume.pdf)
+📥 [Download My Resume](https://vijay-chavda.github.io/Vijaychavda-Portfolio/static/VijayChavdaResume.pdf)
+
 
 ---
 
