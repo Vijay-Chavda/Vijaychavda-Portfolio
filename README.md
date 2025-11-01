@@ -39,7 +39,7 @@ Welcome to my automation portfolio! I'm an **Intelligent Automation Engineer** w
 ## 📫 Contact Me
 - 📧 Email: [vijaychavdap@gmail.com](mailto:vijaychavdap@gmail.com)
 - 📞 Phone: +91 9510104254
-- 🌐 Portfolio: [vijaychavda.github.io](https://vijaychavda.github.io)
+- 🌐 Portfolio: [vijaychavda.github.io]https://vijay-chavda.github.io/Vijaychavda-Portfolio/)
 - 💼 LinkedIn: [linkedin.com/in/vijay-chavda-6b8b80216](https://linkedin.com/in/vijay-chavda-6b8b80216)
 
 ---
