@@ -1,0 +1,253 @@
+{
+  "personal": {
+    "name": "Vijay Chavda"
+  },
+  "hero": {
+    "typedStrings": [
+      "Python Developer . . .",
+      "Intelligent Automation Engineer . . .",
+      "RPA + GenAI Specialist",
+       "Web Developer . . ."
+
+
+    ]
+  },
+  "coder": {
+    "name": "Vijay Chavda",
+    "skills": [
+      "Robotic Process Automation (RPA)",
+      "Automation Anywhere (V11,A360)",
+      "UiPath (Studio, Orchestrator, RE Framework)",
+       "Automation Co-Pilot",
+      "SAP Automation",
+      "Excel Automation",
+      "Web Automation",
+      "Document Automation",
+      "API Integration",
+      "GenAI Integration",
+      "Prompt Engineering",
+      "LLM Integration (OpenAI)",
+      "Python(Django)",
+      "VBScript",
+      "SQL Server",
+       "Selenium",
+       "HTML",
+      "CSS",
+       "JavaScript",
+      "Power BI",
+      "Excel Analytics"
+     
+    ],
+    "hardWorker": true,
+    "quickLearner": true,
+    "problemSolver": true
+  },
+  "about": {
+"summary": [
+  "I'm Vijay Chavda, an Intelligent Automation Engineer with 3.9+ years of experience in RPA and AI-driven process automation using Automation Anywhere, UiPath, Python, and GenAI. I’m passionate about solving problems, optimizing workflows, and driving efficiency through intelligent solutions.",
+  "I build scalable automation systems that combine RPA with GenAI and LLMs (OpenAI) for smart data extraction and decision-making. I also work across web technologies like Django, HTML, CSS, and JavaScript, and deliver insights using Power BI.",
+  "I'm actively seeking new opportunities to apply my AI-powered automation skills, collaborate with innovative teams, and contribute to impactful digital transformation projects."
+]
+
+  },
+ "experiences": [
+  {
+    "role": "RPA + AI Developer",
+    "company": "Oracle India Pvt. Ltd.",
+    "location": "Bangalore / Remote",
+    "period": "Sep 2025 – Present",
+    "bullets": [
+      "Built and deployed an Intelligent Incident Automation System (IIAS) using UiPath, Python, and GenAI",
+      "Automated incident workflows between Oracle Service Cloud and NetSuite, cutting manual effort by 70%",
+      "Created a Regex + GenAI-based Python framework for structured data extraction",
+      "Implemented smart classification and validation for invoice and card data"
+    ]
+  },
+  {
+    "role": "RPA Developer",
+    "company": "Adani Global Capability Center",
+    "location": "Ahmedabad, Gujarat",
+    "period": "May 2022 – Aug 2025",
+    "bullets": [
+      "Developed 12+ bots using Automation Anywhere A360",
+      "Automated AP, reconciliation, and SAP tasks, saving ₹60 crore",
+      "Built reusable components and led user training",
+      "Supported dashboarding with Power BI and web tools"
+    ]
+  },
+  {
+    "role": "RPA Intern",
+    "company": "ABEX – Adani Business Excellence",
+    "location": "Ahmedabad",
+    "period": "Jan 2022 – Apr 2022",
+    "bullets": [
+      "Created BRDs and assisted AA v11 to A360 migration",
+      "Tested bots and improved performance via feedback",
+      "Automated invoice/data entry, reducing manual effort by 20%"
+    ]
+  }
+],
+  "skills": [
+    { "name": "Automation Anywhere", "icon": "static/media/aa.png" },
+    { "name": "Ui Path", "icon": "static/media/Uipath.png" },
+    { "name": "Python", "icon": "static/media/Python.svg" },
+    { "name": "Sap Automation", "icon": "static/media/sap.svg" },
+    { "name": "Excel Macro", "icon": "static/media/Excelmacro.svg" },
+    { "name": "Vb Script", "icon": "static/media/vb.svg" },
+    { "name": "Web Automation", "icon": "static/media/web.svg" },
+    { "name": "Document Automation", "icon": "static/media/Doc.png" },
+    { "name": "API Integration", "icon": "static/media/api.png" },
+    { "name": "SQL Server", "icon": "static/media/sqlserver.svg" },
+    { "name": "Power BI", "icon": "static/media/icons8-power-bi-2021.svg" },
+    { "name": "Django", "icon": "static/media/icons8-django.svg" },
+    { "name": "Sqlite", "icon": "static/media/SQlite.svg" },
+    { "name": "MySQL", "icon": "static/media/mysql.svg" },
+    { "name": "HTML", "icon": "static/media/html.svg" },
+    { "name": "CSS", "icon": "static/media/css.svg" },
+    { "name": "Javascript", "icon": "static/media/javascript.svg" }
+  ],
+  "projects": [
+  {
+    "title": "Domestic Payment Processing",
+    "duration": "45 Days",
+    "role": "RPA Developer",
+    "teamSize": 3,
+    "tools": [
+      "Automation Anywhere (A360)",
+      "Python",
+      "Django",
+      "Excel Automation",
+      "SAP Automation",
+      "MS SQL Server",
+      "Power BI"
+    ],
+    "overview": "Developed and deployed an automated payment processing system that eliminated manual tasks, reduced errors, and ensured timely payments across auto, MSME, employee, insurance, and DEL categories.",
+    "contributions": [
+      "Built RPA bots using Automation Anywhere A360 for end-to-end payment automation",
+      "Automated pre-checking rules like vendor blocking, user validation, and tax verification",
+      "Handled payment proposal generation, debit-credit adjustments, and error handling",
+      "Monitored bot performance and logged exceptions in SQL Server",
+      "Collaborated with Django and Power BI developers for web interface and reporting"
+    ],
+    "achievements": [
+      "Saved 6 FTEs through automation",
+      "Delivered project within 45 days with full compliance",
+      "Reduced manual errors by 40% via rule-based validation"
+    ]
+  },
+  {
+    "title": "Duplicate Invoice Identification",
+    "duration": "60 Days",
+    "role": "RPA Developer",
+    "teamSize": 1,
+    "tools": [
+      "UiPath",
+      "MS SQL Server",
+      "Excel Automation",
+      "SAP Automation",
+      "VBScript"
+    ],
+    "overview": "Automated the detection of duplicate invoices in SAP to prevent fraud and reduce manual effort.",
+    "contributions": [
+      "Built end-to-end solution using UiPath for invoice duplication checks",
+      "Extracted SAP data across 9 servers using FBL1N and consolidated in Excel",
+      "Uploaded cleansed data to SQL Server and applied 13 matching rules",
+      "Generated comparison files and automated same-day validation",
+      "Eliminated manual errors and reduced processing time"
+    ],
+    "achievements": [
+      "Saved ₹60 crore by preventing fraudulent payments",
+      "Reduced manual effort by 2 hours daily",
+      "Improved invoice accuracy and fraud prevention"
+    ]
+  },
+  {
+    "title": "Intercompany Reconciliation System (ICR Tool)",
+    "duration": "6 Months",
+    "role": "Solo Developer (RPA, Python, Power BI)",
+    "teamSize": 1,
+    "tools": [
+      "Automation Anywhere (A360)",
+      "Python",
+      "Django",
+      "Excel Automation",
+      "SAP Automation",
+      "MS SQL Server",
+      "Power BI"
+    ],
+    "overview": "Built a full-stack reconciliation system to automate intercompany financial matching across multiple entities.",
+    "contributions": [
+      "Designed auto-matching (60%) and manual matching (40%) workflows",
+      "Automated SAP data extraction using FBL1N and FBL5N across 12 servers",
+      "Developed Django portal for manual reconciliation tasks",
+      "Created Power BI dashboards for real-time tracking",
+      "Applied 9 matching rules to reduce reconciliation time",
+      "Automated ICR number generation and ensured SQL-based validation"
+    ],
+    "achievements": [
+      "Saved 4 FTEs through automation",
+      "Delivered project within 6 months",
+      "Received Spot Recognition Award",
+      "Reduced reconciliation time from 7–8 days to near real-time"
+    ]
+  },
+  {
+    "title": "Intelligent Incident Automation System (IIAS)",
+    "duration": "30 Days",
+    "role": "RPA + GenAI Developer",
+    "teamSize": 1,
+    "tools": [
+      "UiPath",
+      "Python",
+      "Regex",
+      "GenAI",
+      "Oracle Service Cloud (OSVC)",
+      "Oracle NetSuite"
+    ],
+    "overview": "Developed a touchless incident management system integrating Oracle Service Cloud and NetSuite using UiPath and GenAI for intelligent classification and automation.",
+    "contributions": [
+      "Built UiPath bots integrated with Python and GenAI for incident parsing and classification",
+      "Automated incident retrieval, validation, and status updates across OSVC and NetSuite",
+      "Created a Regex + GenAI framework to extract invoice numbers, credit card details, and amounts",
+      "Implemented real-time verification and confirmation logging",
+      "Added error handling and logging for process resilience"
+    ],
+    "achievements": [
+      "Reduced manual effort by 70%",
+      "Improved accuracy and speed of incident processing",
+      "Enabled seamless integration between desktop and web platforms"
+    ]
+  }
+],
+  "education": [
+    {
+      "period": "2020 - 2022",
+      "degree": "Master of Computer Applications (MCA)",
+      "school": "Nirma University",
+      "score": "8.2 CGPA"
+    },
+    {
+      "period": "2017 - 2020",
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "school": "Gujarat University",
+      "score": "7.8 CGPA"
+    },
+    {
+      "period": "2015 - 2017",
+      "degree": "Higher Secondary School (HSC)",
+      "school": "Durga Vidyalaya - GHSEB",
+      "score": "70.53%"
+    },
+    {
+      "period": "2014 - 2015",
+      "degree": "Secondary School (SSC)",
+      "school": "Durga Vidyalaya - GSEB",
+      "score": "68.00%"
+    }
+  ],
+  "contact": {
+    "email": "vijaychavdap@gmail.com",
+    "phone": "+91 9510104254",
+    "location": "Chandlodiya, Ahmedabad, Gujarat 382481"
+  }
+}
